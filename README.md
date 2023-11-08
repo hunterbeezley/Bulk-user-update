@@ -1,5 +1,7 @@
 # New Relic Bulk User Email Update
 
+***NOTE: this code is not owned or maintained by New Relic. All outcomes of this script are the sole responsibility of those who use it.***
+
 This Python script allows you to update the email address of one or multiple users in your New Relic account using the New Relic User Management API.
 
 ## How to Use
